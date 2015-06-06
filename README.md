@@ -3,6 +3,8 @@ OSGi enRoute Beispiel</h1>
 
 Das Beispiel wurde im Rahmen der Abarbeitung des [Tutorials](http://enroute.osgi.org/book/220-tutorial-base.html) erstellt. 
 
+[![Build Status](https://travis-ci.org/FunThomas424242/bndtools.example.svg?branch=master)](https://travis-ci.org/FunThomas424242/bndtools.example)
+
 Test in der OSGI Console über >test:eval 3*3
 
 <h2>Weiterführende Links</h2>
